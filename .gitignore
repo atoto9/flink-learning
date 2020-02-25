@@ -1,0 +1,8 @@
+project/project
+project/target
+src/main/scala/com/jihkai/config
+src/main/scala/META-INF
+target
+out
+.idea
+
